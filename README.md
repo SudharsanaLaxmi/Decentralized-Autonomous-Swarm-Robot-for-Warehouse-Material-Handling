@@ -634,12 +634,6 @@ We welcome contributions! This project follows established best practices for op
 
 This project is licensed under the **MIT License** - see [LICENSE](LICENSE) for details.
 
-### Quick Summary
-- ✅ Commercial use
-- ✅ Modification
-- ✅ Distribution
-- ✅ Private use
-- ⚠️ Liability and warranty disclaimers apply
 
 ---
 
@@ -705,36 +699,9 @@ This project implements concepts from numerous robotics and computer vision pape
 
 ---
 
-## 📞 Contact
 
-<table>
-  <tr>
-    <td>📧 Email</td>
-    <td>robotics@example.com</td>
-  </tr>
-  <tr>
-    <td>🌐 Website</td>
-    <td>https://example.com/robotics</td>
-  </tr>
-  <tr>
-    <td>💼 LinkedIn</td>
-    <td>https://linkedin.com/company/example</td>
-  </tr>
-  <tr>
-    <td>🐦 Twitter</td>
-    <td>https://twitter.com/example</td>
-  </tr>
-</table>
 
----
 
-## 🙏 Acknowledgments
-
-- ESP32 Community and Espressif Systems
-- OpenCV and OpenCV-Contrib Contributors
-- ArUco Marker Team
-- Our amazing contributors and testers
-- Robotics labs and research institutions
 
 ---
 
