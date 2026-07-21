@@ -1,5 +1,110 @@
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+env.bak/
+venv.bak/
+
+# IDEs
 .vscode/
 .idea/
-build/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+.benchmarks/
+
+# Documentation
+docs/_build/
+docs/.doctrees/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# C/C++/Arduino
+*.o
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+*.exe
+*.out
+*.app
+.pio/
+.build/
+*.hex
+*.elf
+
+# Build outputs
+cmake-build-debug/
+cmake-build-release/
+out/
+
+# OS
+Thumbs.db
+.DS_Store
+*.log
+
+# Data and calibration files
+*.csv
+calibration_data/
+test_output/
+*.pickle
+*.pkl
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+.#*
+
+# Hardware design files (versioning caution)
+*.bak
+*.bck
+*.sch~
+*.pcb~
+
+# Vision datasets (large files management)
+datasets/raw/
+*.bag
+*.mcap

@@ -1,0 +1,38 @@
+[MASTER]
+jobs = 4
+persistent = yes
+suggestion-mode = yes
+unsafe-load-any-extension = no
+
+[MESSAGES CONTROL]
+disable =
+    missing-docstring,
+    too-few-public-methods,
+    duplicate-code,
+    line-too-long,
+    fixme,
+
+[FORMAT]
+max-line-length = 120
+indent-string = '    '
+indent-after-paren = 4
+
+[DESIGN]
+max-attributes = 7
+max-arguments = 6
+max-locals = 15
+
+[SIMILARITIES]
+min-similarity-lines = 5
+ignore-comments = yes
+ignore-docstrings = yes
+ignore-imports = yes
+
+[BASIC]
+good-names = i, j, k, ex, Run, _, x, y, z, id, df, ax
+
+[LOGGING]
+logging-format-style = new
+
+[TYPING]
+ignored-classes = optparse.Values, thread._local, _thread._local
